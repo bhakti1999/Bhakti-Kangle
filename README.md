@@ -8,7 +8,7 @@ I specialize in building scalable infrastructure, automating deployments, and en
 ### 🚀 About Me
 
 - 🔭 Currently advancing my expertise in **AWS Solutions Architecture**
-- 🛠️ Skilled in **AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, ArgoCD**
+- 🛠️ Skilled in **AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible**
 - 🔁 Focused on automation, scalability, and system reliability
 - 🌱 Continuously exploring cloud-native tools and DevOps best practices
 - 👯 Open to collaboration on DevOps & cloud projects
