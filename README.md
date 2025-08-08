@@ -61,5 +61,6 @@ I specialize in building scalable infrastructure, automating deployments, and en
 ### 📫 Let's Connect
 
 - 📧 Email:bhaktikangle@gmail.com
-- ✨ Let’s automate, innovate, and build the future together!
+
+ **✨ Let’s automate, innovate, and build the future together!**
 
